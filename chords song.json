@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Happy birthday to you",
+    "author": "Unknown",
+    "mainChords": "C,G,F",
+    "detail": "[C] Happy birthday to [G] you\n\n[G] Happy birthday to [C] you\n[C] Happy birthday dear [F] (tên người)\n[C] Happy birthday [G] to [C] you"
+  },
+  {
+    "name": "Alouette",
+    "author": "Unknown",
+    "mainChords": "D,A",
+    "detail": "[D] Alouette, [A] gentille alou[D]ette,\n[D] Alouette, [A] je te plume[D]rai.\n[D] Je te plumerai la tête. [A] Je te plumerai la [D]tête.\n[D] Et la tête ! Et la tête ! [A] Alouette, Alouette !\n[D] Alouette, [A] gentille alou[D]ette,\n[D] Alouette, [A] je te plume[D]rai."
+  },
+  {
+    "name": "Frère Jacques",
+    "author": "Unknown",
+    "mainChords": "G,D,C",
+    "detail": "[G] Frère Jacques, [D] Frère Jacques,\n[D] Dormez-vous? [G] Dormez-vous?\n[G] Sonnez les matines! [C] Sonnez les matines!\n[G] Ding, [D] dang, [G] dong.\n[G] Ding, [D] dang, [G] dong."
+  },
+  {
+    "name": "Twinkle Twinkle Little Star",
+    "author": "Mozart",
+    "mainChords": "C,G,F",
+    "detail": "[C] Twinkle, twinkle [F] little [C] star,\n[F] How I [C] wonder [G] what you [C] are.\n[C] Up [F] above the [C] world so [G] high,\n[C] Like a [F] diamond [C] in the [G] sky.\n[C] Twinkle, twinkle [F] little [C] star,\n[F] How I [C] wonder [G] what you [C] are."
+  },
+  {
+    "name": "ABC song",
+    "author": "Unknown",
+    "mainChords": "C,G,F",
+    "detail": "[C] A, B, C, D, E, F, [G] G,\n[C] H, I, J, K, L, M, N, [G] O, P,\n[C] Q, R, S, [F] T, U, [C] V,\n[C] W, X, [G] Y, and [C] Z,\n[C] Now I know my [F] ABCs,\n[C] Next time won't you [G] sing with [C] me."
+  },
+  {
+    "name": "Auld Lang Syne",
+    "author": "Unknown",
+    "mainChords": "C,G7,F,Am",
+    "detail": "[C] Should auld acquaintance [G7] be forgot,\nAnd [C] never brought to [F] mind?\nShould [C] auld [Am] acquaintance [G7] be forgot,\nAnd [F] auld lang [C] syne.\n\nFor [C] auld lang [G7] syne, my dear,\nFor [C] auld lang [F] syne,\nWe'll [C] take a [Am] cup of [G7] kindness yet,\nFor [C] auld [G] lang [F] syne."
+  },
+  {
+    "name": "Nokia tune",
+    "author": "Gran Vals",
+    "mainChords": "E,B,A",
+    "detail": "[E] [B] [A] [E]\n[E] [B] [A] [E]\n[E] [B] [A] [E]\n[E] [B] [A] [E]"
+  },
+  {
+    "name": "Santa Lucia",
+    "author": "Teodoro Cottrau",
+    "mainChords": "G,Am,D7,E7,C",
+    "detail": "1. Sul [G] mare luccica l'as-[Am] tro, d'argen-[D7] to\nPla-[G] cida è l'on-[E7] da, pros-[Am] pero è il ven-[D7] to\nSul-[G] mare luccica l'as-[Am] tro, d'argen-[D7] to\nPla-[G] cida è l'on-[E7] da, pro-[Am] spero è il ven-[D7] to\n\n2. Ve-[G] nite all'agi-[Am] le bar-[C] chetta mi-[G] a\nSanta Luci-[Am] a! San-[D7] ta Luci-[G] i!\nVe-[G] nite all'agi-[Am] le bar-[C] chetta mi-[G] a\nSanta Luci-[Am] a! San-[D7] ta Luci-[G] i!\n\nChorus: O [G] dolce Napoli, o [Am] suol bea-[D7] to\nO-[G] ve sorride-[E7] re, vo-[Am] lle il crea-[D7] to\nO [G] dolce Napoli, o [Am] suol bea-[D7] to\nO-[G] ve sorride-[E7] re, vo-[Am] lle il crea-[D7] to\n\n3. Ve-[G] nite all'agi-[Am] le bar-[C] chetta mi-[G] a\nSanta Luci-[Am] a! San-[D7] ta Luci-[G] i!\nVe-[G] nite all'agi-[Am] le bar-[C] chetta mi-[G] a\nSanta Luci-[Am] a! San-[C] ta Luci-[G] i!"
+  },
+  {
+    "name": "Que sera sera - What will be will be",
+    "author": "Jay Livingston & \tRay Evans",
+    "mainChords": "G,Am,,D,D7,G7,C",
+    "detail": "1. When I was [G] just a little girl\nI asked my mother, what will I [Am] be?\n[D] Will I be pretty, will I be rich?\n[D7] Here's what she said to [G] me [G7]\n\nChorus: Que Se-[C] ra, Sera\nWhatever will [G] be, will be\nThe future's not [D7] ours, to see\nQue Sera, Se-[G] ra\nWhat will [D7] be, will [G] be\n\n2. When I was [G] young, I fell in love\nI asked my sweetheart what lies a-[Am] head?\n[D] Will we have rainbows, day after day?\n[D7] Here's what my sweetheart [G] said [G7]\n\n3. Now I have [G] children of my own\nThey ask their mother, what will I [Am] be?\n[D] Will I be handsome, will I be rich?\n[D7] I tell them tender-[G] ly [G7]"
+  },
+  {
+    "name": "Stand by me",
+    "author": "Ben E. King",
+    "mainChords": "A,F#m,D,E",
+    "detail": "[A] When the night has come\nAnd the [F#m] land is dark\nAnd the [D] moon is the [E] only light we'll [A] see\nNo I won't be afraid, no I [F#m] won't be afraid\nJust as [D] long as you [E] stand, stand by [A] me\n\n[A] And darlin', darlin', stand by me\nOh [F#m] stand by me\nOh [D] Stand [E] Stand by me, [A] stand by me\n\n[A] If the sky that we look upon\nShould tum- [F#m] ble and fall\nAnd the [D] mountains should [E] crumble to the [A] sea\nI won't cry, I won't cry, no I [F#m] won't shed a tear\nJust as [D] long as you [E] stand, stand by [A] me\n\n[A] And darlin', darlin', stand by me\nOh [F#m] stand by me\nOh [D] Stand now [E] Stand by me, [A] stand by me\n\n[A] Whenever you're in trouble won't you stand by me\nOh now [F#m] stand by me\nOh [D] Stand now [E] Stand by me, [A] stand by me\n"
+  },
+  {
+    "name": "Proud of you",
+    "author": "Fiona Fung",
+    "mainChords": "C,F,Am,Em,F,Dm",
+    "detail": "Intro: [C] [G] [Am] [Em] [F] [C] [Dm] [G]\n\n[C] Love in your [G] eyes\nSitting [Am] silent by my [Em] side\nGoing [F] on holding [C] hand\nWalking [Dm] through the [G] nights.\n\nHold me [C] up hold me [G] tight\nLift me [Am] up to touch the [Em] sky\nTeaching [F] me to love with [C] heart\nHelping [Dm] me open my [G] mind.\n\nChorus:\nI can [C] fly\nI'm [G] proud that I can [Am] fly\nTo [Em] give the best of [F] mine\nTill [C] the end of the [Dm] time.\n\n[G] Believe me I can [C] fly\nI'm [G] proud that I can [Am] fly\nTo [Em] give the best of [F] mine\nThe [G] heaven in the [C] sky.\n\n[C] Stars in the [G] sky\nWishing [Am] once upon a [Em] time\nGive me [F] love Make me [C] smile\nTill the [Dm] end of [G] life.\n\nHold me [C] up hold me [G] tight\nLift me [Am] up to touch the [Em] sky\nTeaching [F] me to love with [C] heart\nHelping [Dm] me open my [G] mind.\n\nBridge:\n[F] Can't you [G] believe that you light [C] up my [Am] way\nNo matter [F] how that ease my path\nI'll [G] never lose my faith.\n\nChorus:\nSee me [C] fly\nI'm [G] proud to fly up [Am] high\nShow [Em] you the best of [F] mine\nTill [C] the end of the [Dm] time.\n\n[G] Believe me I can [C] fly\nI'm [G] singing in the [Am] sky\nShow [Em] you the best of [F] mine\nThe [G] heaven in the [C] sky.\n\n[Dm] Nothing can stop [G] me\n[F] Spread my [G] wings so [C] wide."
+  },
+  {
+    "name": "Le coq est mort",
+    "author": "Unknown",
+    "mainChords": "F,C,Bb",
+    "detail": "[F] Maudit sois-[C] tu, carillon-[F] neur\n[F] Que Dieu [C] créa pour mon [F] malheur !\n[F] Dès le point du a[Bb] jour à la cloche il s'-[F] accroche\n[F] Et le soir [C] encore carillonne [F] plus fort\nQuand sonnera-t-on la mort [C] du [F] sonneur\nQuand sonnera-t-on la mort [C] du [F] sonneur ?"
+  },
+  {
+    "name": "Le coq est mort",
+    "author": "Unknown",
+    "mainChords": "C,F,D7,G7,E7,Am,G,Dm",
+    "detail": "We [C] wish you a Merry [F] Christmas\nWe [D7] wish you a Merry [G7] Christmas\nWe [E7] wish you a Merry [Am] Christmas\nAnd a [F] happy [G7] New [C] Year\n\n[C] Glad tidings we [G] bring\nTo [D7] you and your [G7] kin\nGlad [C] tidings for Christmas\nAnd a [Dm] happy [G7] New [C] Year\n\nWe [C] want some milk and [F] cookies\nWe [D7] want some milk and [G7] cookies\nWe [E7] want some milk and [Am] cookies\nPlease [F] bring it [G7] right [C] here\n\n[C] Glad tidings we [G] bring\nTo [D7] you and your [G7] kin\nGlad [C] tidings for Christmas\nAnd a [Dm] happy [G7] New [C] Year\n\nWe [C] won't go until we [F] get some\nWe [D7] won't go until we [G7] get some\nWe [C] won't go until we get some\nSo [Dm] bring it [G7] out [C] here\n\n[C] Glad tidings we [G] bring\nTo [D7] you and your [G7] kin\nGlad [C] tidings for Christmas\nAnd a [Dm] happy [G7] New [C] Year\n\nWe [C] wish you a Merry [F] Christmas\nWe [D7] wish you a Merry [G7] Christmas\nWe [E7] wish you a Merry [Am] Christmas\nAnd a [F] happy [G7] New [C] Year\n\n[C] Glad tidings we [G] bring\nTo [D7] you and your [G7] kin\nGlad [C] tidings for Christmas\nAnd a [Dm] happy [G7] New [C] Year"
+  }
+]
