@@ -72,9 +72,61 @@
     "detail": "[F] Maudit sois-[C] tu, carillon-[F] neur\n[F] Que Dieu [C] créa pour mon [F] malheur !\n[F] Dès le point du a[Bb] jour à la cloche il s'-[F] accroche\n[F] Et le soir [C] encore carillonne [F] plus fort\nQuand sonnera-t-on la mort [C] du [F] sonneur\nQuand sonnera-t-on la mort [C] du [F] sonneur ?"
   },
   {
-    "name": "Le coq est mort",
+    "name": "We wish you a Merry Christmas",
     "author": "Unknown",
     "mainChords": "C,F,D7,G7,E7,Am,G,Dm",
     "detail": "We [C] wish you a Merry [F] Christmas\nWe [D7] wish you a Merry [G7] Christmas\nWe [E7] wish you a Merry [Am] Christmas\nAnd a [F] happy [G7] New [C] Year\n\n[C] Glad tidings we [G] bring\nTo [D7] you and your [G7] kin\nGlad [C] tidings for Christmas\nAnd a [Dm] happy [G7] New [C] Year\n\nWe [C] want some milk and [F] cookies\nWe [D7] want some milk and [G7] cookies\nWe [E7] want some milk and [Am] cookies\nPlease [F] bring it [G7] right [C] here\n\n[C] Glad tidings we [G] bring\nTo [D7] you and your [G7] kin\nGlad [C] tidings for Christmas\nAnd a [Dm] happy [G7] New [C] Year\n\nWe [C] won't go until we [F] get some\nWe [D7] won't go until we [G7] get some\nWe [C] won't go until we get some\nSo [Dm] bring it [G7] out [C] here\n\n[C] Glad tidings we [G] bring\nTo [D7] you and your [G7] kin\nGlad [C] tidings for Christmas\nAnd a [Dm] happy [G7] New [C] Year\n\nWe [C] wish you a Merry [F] Christmas\nWe [D7] wish you a Merry [G7] Christmas\nWe [E7] wish you a Merry [Am] Christmas\nAnd a [F] happy [G7] New [C] Year\n\n[C] Glad tidings we [G] bring\nTo [D7] you and your [G7] kin\nGlad [C] tidings for Christmas\nAnd a [Dm] happy [G7] New [C] Year"
+  },
+  {
+    "name": "Konnichiwa Sayonara",
+    "author": "Monoka Murakata",
+    "mainChords": "F,C,G",
+    "detail": "[C]Kochi kochi kacchin [F]Otokei [G]san\n[C]Kochi kochi kacchin [G]Ugoite[C]ru\n[G]Kodomo no hari to [C]Otona no hari to\n[C]Konnichiwa [F]Sayo-na[C]ra\nKochi kochi kacchin [G]Sayo-na[C]ra"
+  },
+  {
+    "name": "Free Fallin",
+    "author": "Tom Petty",
+    "mainChords": "A,D,E,Asus4",
+    "detail": " \n[Intro]\nA   D   D   A   E\nA\n \n \n[Verse]\n        A    D     D   A     E\nshe's a good girl, loves her mama\n      A  D      D  A    E\nloves Jesus and America too\n        A    D     D      A    E\nshe's a good girl, crazy 'bout Elvis\n      A  D           D  A      E\nloves horses and her boyfriend too\n \n \n[Interlude]\nA   D   D   A   E"
+  },
+  {
+    "name": "Up around the bend",
+    "author": "Creedence Clearwater Revival",
+    "mainChords": "C,G,G7,F",
+    "detail": "[C]There's a place up ahead and I'm goin'\nJust as [G]fast as my [G7]feet can [C]fly\n[C]Come away, come away if you're goin'\nLeave the [G]sinkin' [G7]ship be- [C]hind\n[F]Come on the [C]risin' [G]wind, \nWe're [F]goin' up a- [C]round the [G]bend Oh\n \n[C]Bring a song and a smile for the banjo\nBetter [G]get while the [G7]gettin's [C]good\nHitch a [C]ride to the end of the highway\nWhere the [G]neon's [G7]turn to [C]wood\n[F]Come on the [C]risin' [G]wind, \nWe're [F]goin' up a- [C]round the [G]bend Oh\n \n[C]You can ponder perpetual motion, \nFix your [C]mind on a [G7]crystal [C]day, \n[C]Always time for a good conversation, \nThere's an [G]ear for [G7]what you [C]say\n[F]Come on the [C]risin' [G]wind, \nWe're [F]goin' up a- [C]round the [G]bend. Yeah Oh\n \n[F] [C] [G]- [F] [C] [G]\n \n[C]Catch a ride to the end of the highway\nAnd we'll [G]meet by the [G7]big red [C]tree, \n[C]There's a place up ahead and I'm goin'\nCome a- [G]long, come a- [G7]long with [C]me\n[F]Come on the [C]risin' [G]wind, \nWe're [F]goin' up a- [C]round the [G]bend Yeah\n \n[C]Do do do do\n[G]Do do do [G]do\n[C]Do do do do\n[G]Do do do [C]do yeah"
+  },
+  {
+    "name": "Omoide",
+    "author": "Tsunekichi Suzuki",
+    "mainChords": "Bm,D,A,G,F#m",
+    "detail": "(Intro)\n[Bm]   [A]  [G]  [D] [Bm]   [A]  [G] \n[D]  [A]  [G]  [D] [Bm]   [F#m]    [G] \n(Verse 1)\nKimi ga [Bm]haita [A]shiroi i[G]ki [D]ga\nIma [Bm]yukkuri [A]kaze ni [G]notte... \nSora ni [D]uka[A]bu [G]kumo no naka [D]ni\nSuko[Bm]shi zu[F#m]tsu kiete[G]yuku\n \nVerse 2\nTooku [Bm]takai [A]sora no [G]naka [D]de\nTe wo [Bm]nobasu [A]shiroi [G]kumo\nKimi ga [D]haita[A] ik[G]i wo [D]sutte\nPo[Bm]kkari to [F#m]ukan[G]deru\n \nChorus\n[D]Zu...utto [A]muka...shi [G]no....[D]kotono [A]you da [G]ne...\n[D]Kawamono no [A]ue [G]wo... [D]kumo [Bm]ga na[A]gare[G]ru\n \nInterlude\n[Bm]   [A]  [G] \n[D]  [A]  [G]  [D] \n[Bm]   [G] [Bm]   [A]  [G]\n[D]  [A]  [G]  [D] [Bm]   [A]  [G] \n \nVerse 3\nTeri[Bm]kaesu hiza[A]shi wo [G]sa[D]kete\nNoki[Bm]shita ni nemu[A]ru i[G]nu\nOmo[D]idemo[A] ano sora [G]no [D]naka ni\nSu[Bm]koshi zutsu [F#m]kieteyu[G]ku\n \nVerse 4\nKono [D]sora no muk[A]ouga[G]wa [D]ni ha\nMou hi[Bm]totsu no ao[A]i so[G]ra\nDaremo [D]inai[A] so[G]ra no [D]naka ni\nPo[Bm]kkari to u[F#m]kabu ku[G]mo\n \nChorus\n[D]Zu-utto mu[A]ka-shi [G]no...[D]kotono y[A]ou da [G]ne...\n[D]Kawamono no [A]ue [G]wo...[D] kumo [Bm]ga na[A]gare[G]ru\n \nInterlude\n[Bm]   [A]  [G] \n[D]  [A]  [G]  [D] \n[Bm]   [G] [Bm]   [A]  [G] \n[D]  [A]  [G]  [D] [Bm]   [A]  [G] \n \nVerse 5\nKimi ga [Bm]haita shi[A]roi[G] i[D]ki ga\nIma [Bm]yukkuri kaze [A]ni no[G]tte\nSora ni [D]ukabu[A] ku[G]mo no [D]naka ni\nSuko[Bm]shi zutsu kieteyu[G]ku\nSuko[Bm]shi zutsu [F#m]kieteyu[G]ku\n \nOutro\n[Bm] [G] x5"
+  },
+  {
+    "name": "Korobeiniki Chords",
+    "author": "Russian",
+    "mainChords": "Dm,Am,E",
+    "detail": "([Intro]\nDm Am E Am\n \n \n[Verse 1]\nE           Am\nE              Am\n\nDm              Am\n\nE              Am\n\n \n \n[Chorus]\nDm              Am\n\nE              Am\n\n \n \n[Verse 2]\nE            Am\n\nE             Am\n\nDm          Am\n\nE          Am\n\n \n \n[Chorus]\n \n\nE          Am\n\n \n \n[Verse 3]\nE                 Am\n\nE              Am\n\nDm             Am\n\nE            Am\n\n \n \n[Chorus]\nDm Am E Am\n \n \n[Verse 4]\nE                  Am\n\nE             Am\n\nDm                    Am\n\nE           Am\n\n \n \n[Verse 5]\nE              Am\n\nE            Am\n\nDm                Am\n\nE            Am\n\nE                   Am\n\nE            Am\n\nDm                    Am\n\nE          E\n\n \n \n[Verse 6]\nE              Am\n\nE               Am\n\nDm             Am\n\nE          Am\n\n \n \n[Chorus]\nDm             Am\n\nE          Am          Am"
+
+  },
+  {
+    "name": "Säkkijärven Polkka",
+    "author": "Finnish ",
+    "mainChords": "Am,E7,A,Dm,A7",
+    "detail": "On [Am]kauniina muistona [E7]Karjalan maa Mutta vieläkin syömmessä m[A]soinnahtaa\nKun [Am]soittajan sormista [E7]kuulla saa Säkkijärven [Am]polkkaa\nSe [Am]polkka taas menneitä [E7]mieleen tuo Ja se outoa kaipuuta [Am]rintaan luo\nHei, [Am]soittaja, haitarin [E7]soida suo Säkkijärven [Am]polkkaa\n \n[Am]Nuoren ja vanhan se [E7]tanssiin vieEi sille polkalle [Am]vertaa lie\nSen [Am]kanssa on vaikka [E7]mierontie Säkkijärven [Am]polkka\n[Am]Siinä on liplatus [E7]laineitten Siinä on huojunta [Am]honkien\n[Am]Karjala soi, kaikki [E7]tietää sen Säkkijärven [Am]polkka\n \n[Dm]Tule, tule tyttö, nyt [A7]kanssani tanssiin Kun polkka niin herkästi [Dm]helkähtää\n[Dm]Hoi hepo surkoon ja [A7]hammasta purkoon Kun sil on ihmeesti [Dm]suurempi pää\n[Dm]Tule, tule, tyttö, nyt [A7]kanssani tanssiin Nii meillä on riemu ja [Dm]suvinen sää\n[Dm]Säkkijärvi se [A7]meiltä on pois Mutta jäi toki sentään [Dm]polkka\n \nKun [Am]rakkaimmat rannat on [E7]jääneet taa Niin vieraissa kulkija [Am]lohdun saa\nKun [Am]kuuntelee soittoa [E7]kaihoisaa Säkkijärven [Am]polkkaa\nSe [Am]polkka on vain, mutta [E7]sellainen Että tielle se johtavi [Am]muistojen\nOn [Am]sointuna Karjalan [E7]kaunoisen Säkkijärven [Am]polkka\n \n[Am]Nuoren ja vanhan se [E7]tanssiin vieEi sille polkalle [Am]vertaa lie\nSen [Am]kanssa on vaikka [E7]mierontie Säkkijärven [Am]polkka\n[Am]Siinä on liplatus [E7]laineitten Siinä on huojunta [Am]honkien\n[Am]Karjala soi, kaikki [E7]tietää sen Säkkijärven [Am]polkka\n \n[Dm]Tule, tule tyttö, nyt [A7]kanssani tanssiin Kun polkka niin herkästi [Dm]helkähtää\n[Dm]Hoi hepo surkoon ja [A7]hammasta purkoon Kun sil on ihmeesti [Dm]suurempi pää\n[Dm]Tule, tule, tyttö, nyt [A7]kanssani tanssiin Nii meillä on riemu ja [Dm]suvinen sää\n[Dm]Säkkijärvi se [A7]meiltä on pois Mutta jäi toki sentään [Dm]polkka\n \nKun [Am]rakkaimmat rannat on [E7]jääneet taa Niin vieraissa kulkija [Am]lohdun saa\nKun [Am]kuuntelee soittoa [E7]kaihoisa Säkkijärven [Am]polkkaa\nSe [Am]polkka on vain, mutta s[E7]ellainen Että tielle se johtavi [Am]muistojen\nOn [Am]sointuna Karjalan [E7]kaunoisenSäkkijärven [Am]polkka"
+
+  },
+  {
+    "name": "Leva's Polka - Miku dance",
+    "author": "Finnish ",
+    "mainChords": "Dm,C",
+    "detail": "[Dm]Nuapurista kuulu se polokan tahti [C]jalakani pohjii [Dm]kutkutti\n[Dm]Ievan äiti se tyttöösä vahti vaan kyllä[C]hän Ieva sen [Dm]jutkutti\nSillä [Dm]ei meitä silloin kiellot haittaa [C]kun myö tanssimme [Dm]laiasta laitaan\n[Dm]Salivili hipput tupput täppyt [C]äppyt tipput [Dm]hilijalleen\n \n[Dm]Ievan suu oli vehnäsellä ko [C]immeiset onnee [Dm]toevotti\n[Dm]Peä oli märkänä jokaisella ja [C]viulu se vinku ja [Dm]voevotti\n[Dm]Ei tätä poikoo märkyys haittaa [C]Sillon ko laskoo [Dm]laiasta laitaan\n[Dm]Salivili hipput tupput täppyt [C]äppyt tipput [Dm]hilijalleen\n \n[Dm]Ievan äiti se kammarissa [C]virsiä veisata [Dm]huijjuutti\n[Dm]Kun tämä poika naapurissa [C]ämmän tyttöä [Dm]nuijjuutti\n[Dm]Eikä tätä poikoo ämmät haittaa [C]Sillon ko laskoo [Dm]laiasta laitaan\n[Dm]Salivili hipput tupput täppyt [C]äppyt tipput [Dm]hilijalleen\n \n[Dm]Hilipati hilipati hilipati hillaa [C]Hilipati hilipati [Dm]hilipampaa\n[Dm]Jalituli jallaa talituli jallaa [C]Tilitali tilitali [Dm]tilitantaa\n[Dm]Hilipati hillaa hilipati hillaa [C]Hilipati hilipati [Dm]jalituli jallaa\n[Dm]Tilitali tallaa, tulituli jallaa [C]Hilipati hilipati [Dm]hilipampaa\n \n[Dm]Rimpatirillaa ripirapirullaa [C]Rumpatirumpa [Dm]tiripirampuu\n[Dm]Jamparingaa rimpatiraparan [C]Tsupantupiran [Dm]dillandu\n[Dm]Japat stilla dipudupu dullaa [C]Dumpatidupa [Dm]lipans dullaa\n[Dm]Dipidapi dullaa rimpati rukan [C]Ribitit stukan [Dm]dillandu\n \n[Dm]Jatsatsa barillas dilla lapa[C]deian dullan [Dm]deian doo\n[Dm]Joparimba badabadeia stulla Laba [C]daba daba dujan [Dm]dillandu\nBa[Dm]rillas dilla deiaduu badaba [C]daga daga daga daga [Dm]dujaduu\nBa[Dm]du dubi dubi dubi dejaduu Badaba [C]dillas dillan [Dm]dejaduu\n \n[Dm]Siellä oli lystiä soiton jäläkeen [C]sain minä kerran [Dm]sytkyyttee\n[Dm]Kottiin ko mäntii ni ämmä se riitelj [C]ja Ieva jo alako [Dm]nyyhkyytteek\n[Dm]Minä sanon Ievalle mitäpä se haittaa [C]Laskemma vielähi [Dm]laiasta laitaa\n[Dm]Salivili hipput tupput täppyt [C]äppyt tipput [Dm]hilijalleen\n \n[Dm]Muorille sanon jotta tukkee suusi en [C]ruppee sun terveyttäs [Dm]takkoomaa\n[Dm]Terveenä peäset ku korjoot luusi ja [C]määt siitä murjuus m[Dm]akkoomaa\n[Dm]Ei tätä poikoo hellyys haittaa [C]Ko akkoja huhkii [Dm]laiasta laitaan\n[Dm]Salivili hipput tupput täppyt [C]äppyt tipput [Dm]hilijalleen\n \n[Dm]Sen minä sanon jotta purra pittää [C]ei mua niin voan [Dm]nielasta\n[Dm]Suat männä ite vaikka lännestä ittään [C]vaan minä en luovu [Dm]Ievasta\nSillä [Dm]ei tätä poikoo kainous haittaa [C]Sillon ko tanssii [Dm]laiasta laitaan\n[Dm]Salivili hipput tupput täppyt [C]äppyt tipput [Dm]hilijalleen"
+
+  },
+  {
+    "name": "Diễm Xưa",
+    "author": "Trịnh Công Sơn",
+    "mainChords": "Am,C,Dm,E7",
+    "detail": "Mưa vẫn mưa bay trên tầng tháp [Am]cổ\nDài tay em [C]mấy thuở mắt xanh [Dm]xao \n[E7]Nghe lá thu [Am]mưa reo mòn gót [E7]nhỏ\nĐường dài hun hút cho mắt thêm [C]sâu. [E7]\n \nMưa vẫn hay mưa trên hàng lá [Am]nhỏ\nBuổi chiều ngồi [C]ngóng những chuyến mưa [Dm]qua \n[E7]Trên bước chân [Am]em âm thầm lá [E7]đổ\nChợt hồn xanh buốt cho mình xót [Am]xa.\n \nĐK:\nChiều này còn [Dm]mưa sao em không lại\nNhớ [Am]mãi trong cơn đau vùi\nLàm sao có [Dm]nhau hằn lên nỗi [E7]đau\nBước [Dm]chân em xin về [E7]mau.\n \nMưa vẫn hay mưa cho đời biển [Am]động\nLàm sao em [C]nhớ những vết chim [Dm]di \n[E7]Xin hãy cho [Am]mưa qua miền đất [E7]rộng\nĐể người phiêu lãng quên mình lãng [Am]du.\n \nMưa vẫn hay mưa cho đời biển [Am]động\nLàm sao em [C]biết bia đá không [Dm]đau \n[E7]Xin hãy cho [Am]mưa qua miền đất [E7]rộng\nNgày sau sỏi đá cũng cần có [Am]nhau.)"
+
   }
 ]
